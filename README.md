@@ -1,54 +1,60 @@
-# DroneCharmer2
+<p align="center">
+  <img src="logo.png" alt="DroneCharmer2 Logo" width="200"/>
+</p>
 
-# DroneCharmer2
+<h1 align="center">DroneCharmer2</h1>
 
-[![License: GNU](https://img.shields.io/badge/License-GNU-yellow.svg)](https://www.gnu.org/licenses/)
-[![Node Version](https://img.shields.io/badge/node-%3E%3D%2010.0.0-brightgreen)](https://nodejs.org/)
-[![ar-drone Version](https://img.shields.io/badge/ar--drone-0.0.3-blue)](https://github.com/felixge/node-ar-drone)
+<p align="center">
+  <a href="https://www.gnu.org/licenses/"><img src="https://img.shields.io/badge/License-GNU-yellow.svg" alt="License: GNU"></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/node-%3E%3D%2010.0.0-brightgreen" alt="Node Version"></a>
+  <a href="https://github.com/felixge/node-ar-drone"><img src="https://img.shields.io/badge/ar--drone-0.0.3-blue" alt="ar-drone Version"></a>
+</p>
 
-DroneCharmer2 is a tool designed to detect and take control of drones. It leverages the capabilities of the ar-drone library to communicate with drones and execute commands.
+<p align="center">
+  DroneCharmer2 is a powerful tool designed to detect and take control of drones. It leverages the capabilities of the ar-drone library to communicate with drones and execute commands.
+</p>
 
-## Table of Contents
+---
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Disclaimer](#disclaimer)
-
-## Installation
+## 🚀 Installation
 
 1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/tukru/DroneCharmer2.git
 
+    Navigate to the project directory:
 
-Navigate to the project directory:
+    bash
 
-    cd DroneCharmer2
-
+cd DroneCharmer2
 
 Install the dependencies:
 
+bash
+
     npm install
 
-## Usage
+🎮 Usage
+
+    Start the application:
+
+    bash
 
     npm start
 
-Follow the on-screen instructions to detect and control drones.
+    Follow the on-screen instructions to detect and control drones.
 
-## License
+📜 License
 
 This project is licensed under the GNU General Public License. See the LICENSE file for details.
-Contributing
+🤝 Contributing
 
 Contributions are welcome! Please read the contributing guidelines to get started.
-Disclaimer
+⚠️ Disclaimer
 
 This tool is intended for educational and research purposes only. The authors and contributors are not responsible for any illegal use of this tool. Always obtain proper authorization before engaging in any activities related to drones.
-
-Made with ❤️ by tukru
-
-This README includes badges for the GNU license, Node.js version, and ar-drone version. It also provides a detailed guide on how to install and use the tool, along with sections for the license, contributing guidelines, and a disclaimer. Feel free to modify any part of this README to better suit your project's needs.
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/tukru">tukru</a>
+</p>
+```
