@@ -20,30 +20,24 @@
 
 1. **Clone the repository:**
 
-   ```bash
+   ```
    git clone https://github.com/tukru/DroneCharmer2.git
 
-    Navigate to the project directory:
+  Navigate to the project directory:
 
-    bash
-
-cd DroneCharmer2
+    cd DroneCharmer2
 
 Install the dependencies:
-
-bash
 
     npm install
 
 🎮 Usage
 
-    Start the application:
-
-    bash
+ Start the application:
 
     npm start
-
-    Follow the on-screen instructions to detect and control drones.
+    
+Follow the on-screen instructions to detect and control drones.
 
 📜 License
 
