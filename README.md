@@ -44,6 +44,7 @@ Follow the on-screen instructions to detect and control drones.
 𖤐 License
 
 This project is licensed under the GNU General Public License. See the LICENSE file for details.
+
 𖤐 Contributing
 
 Contributions are welcome! Please read the contributing guidelines to get started.
