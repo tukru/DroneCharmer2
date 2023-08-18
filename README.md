@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Installation
+## 𖤐 Installation
 
 1. **Clone the repository:**
 
@@ -33,7 +33,7 @@ Install the dependencies:
 
     npm install
 
-🎮 Usage
+𖤐 Usage
 
  Start the application:
 
@@ -41,13 +41,13 @@ Install the dependencies:
     
 Follow the on-screen instructions to detect and control drones.
 
-📜 License
+𖤐 License
 
 This project is licensed under the GNU General Public License. See the LICENSE file for details.
-🤝 Contributing
+𖤐 Contributing
 
 Contributions are welcome! Please read the contributing guidelines to get started.
-⚠️ Disclaimer
+𖤐 Disclaimer
 
 This tool is intended for educational and research purposes only. The authors and contributors are not responsible for any illegal use of this tool. Always obtain proper authorization before engaging in any activities related to drones.
 <p align="center">
