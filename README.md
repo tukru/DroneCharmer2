@@ -48,6 +48,7 @@ This project is licensed under the GNU General Public License. See the LICENSE f
 𖤐 Contributing
 
 Contributions are welcome! Please read the contributing guidelines to get started.
+
 𖤐 Disclaimer
 
 This tool is intended for educational and research purposes only. The authors and contributors are not responsible for any illegal use of this tool. Always obtain proper authorization before engaging in any activities related to drones.
