@@ -2,7 +2,7 @@
   <img src="https://weplaywithfirehere.files.wordpress.com/2023/08/img_7076.jpg" alt="DroneCharmer2 Logo" width="200"/>
 </p>
 
-<h1 align="center">DroneCharmer2</h1>
+<h1 align="center">𖤐DroneCharmer2𖤐</h1>
 
 <p align="center">
   <a href="https://www.gnu.org/licenses/"><img src="https://img.shields.io/badge/License-GNU-yellow.svg" alt="License: GNU"></a>
