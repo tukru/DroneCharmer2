@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="DroneCharmer2 Logo" width="200"/>
+  <img src="https://weplaywithfirehere.files.wordpress.com/2023/08/img_7076.jpg" alt="DroneCharmer2 Logo" width="200"/>
 </p>
 
 <h1 align="center">DroneCharmer2</h1>
@@ -19,6 +19,8 @@
 ## 🚀 Installation
 
 1. **Clone the repository:**
+
+
 
    ```
    git clone https://github.com/tukru/DroneCharmer2.git
